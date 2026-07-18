@@ -1,5 +1,5 @@
 ## Atualização Incremental
-Para aplicar uma atualização incremental, extraia o arquivo `supermodpack-1.3.0-incremental.zip` dentro da pasta mods/
+Para aplicar uma atualização incremental, extraia o arquivo `super-modpack-1.3.0-incremental.zip` dentro da pasta mods/
 
 Substitua os arquivos existentes quando solicitado.
 
