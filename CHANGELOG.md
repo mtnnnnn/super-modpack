@@ -1,0 +1,229 @@
+## [18/07/26]
+## 1.3.0
+
+### Adicionado
+- Advanced Netherite (2.1.3) — novos níveis de armaduras e ferramentas superiores à Netherite
+- Dragon Mounts: Legacy (1.2.3-beta) — criação e montaria de dragões de diferentes elementos
+- Pufferfish's Skills (0.18.1) — sistema de habilidades e progressão por experiência
+- Pufferfish's Attributes (0.8.2) — biblioteca de atributos para bônus e melhorias em equipamentos e habilidades
+- Dis-Enchanting Table (5.0.2) — remoção de encantamentos de itens para recuperação
+- Towns and Towers (1.12) — novas estruturas, vilas e torres
+- Aquamirae (6.4.0) — expansão de oceanos com criaturas, estruturas, equipamentos e chefes
+- Aquamirae Boss Music Tweaks (1.1.0) — ajuste na música do chefe de Aquamirae
+- Aquamirae Delight (2.2) — compatibilidade entre Aquamirae e Farmer's Delight
+- Aquamirae x Better Combat Compatibility — compatibilidade entre armas de Aquamirae e Better Combat
+- Enderman Overhaul (1.0.4) — variantes de Endermen por bioma
+- Creeper Overhaul (3.0.2) — variantes de Creepers por bioma
+- Ecologics (2.2.7) — novos mobs, plantas e blocos para biomas vanilla
+- Friends and Foes (3.0.9) — mobs da votação da comunidade e novos conteúdos vanilla
+- Goblin Traders (1.11.5) — comerciantes goblins raros com ofertas especiais
+- Create: New Age (1.2.0) — geração e uso de energia elétrica no Create
+- Create: The Factory Must Grow (1.0.2f) — indústria pesada, petróleo e produção avançada
+- Create: Addon Compatibility (0.2.4) — integração entre Create e outros addons
+- All The Trims (3.4.3) — armor trims aplicáveis em armaduras de mods
+- Relics (0.8.0.13) — artefatos raros com habilidades únicas
+- Cosmetic Armor Reworked (v1a) — armadura visual separada da armadura com atributos
+- More Overlays Updated (1.24.1) — indicadores visuais extras na interface
+- Overflowing Bars (8.0.1) — expansão das barras de vida e armadura além do limite vanilla
+- Almost Unified (0.11.0) — unificação de itens e recursos equivalentes entre mods
+- Cristel Lib (1.1.6) — biblioteca de configuração de estruturas e datapacks
+- monolib (4.0.2) — biblioteca base dos mods da lupin
+- obscure api (18) — biblioteca auxiliar dos mods da obscuria
+- framework (0.8.0) — biblioteca de suporte aos mods de mrcrayfish
+- tcompat (2.0.3) — addon de compatibilidade para tinkers' construct
+
+
+## [13/07/26]
+## 1.2.0
+
+### adicionado
+- Discord Chat (2.7.0) — integração do chat do Minecraft com canais do Discord em tempo real
+- FTB Chunks (2001.3.8) — sistema de proteção de terrenos (claims) e carregamento forçado de chunks
+- FTB Teams (2001.3.2) — criação de equipes para compartilhamento de claims, permissões e progresso
+- Magnum Torch (8.0.2) — tocha especial que impede o surgimento de mobs hostis em uma grande área
+- What Are They Up To (WATUT) (1.2.3) — exibe visualmente as ações realizadas por outros jogadores, como mineração, construção e uso de blocos
+- CoroUtil (1.3.7) — biblioteca de utilitários utilizada por diversos mods para funcionalidades internas
+
+## [11/07/26]
+## 1.1.0
+- SecurityCraft (1.10.2.1) — sistemas de segurança com fechaduras, câmeras, minas e proteção de bases
+- Accessories (1.0.0-beta.48) — adiciona slots extras para acessórios e equipamentos
+- Ad Astra (1.15.20) — exploração espacial com foguetes, planetas e tecnologia
+- Advancement Plaques (1.6.9) — notificações visuais aprimoradas para conquistas
+- The Aether (1.5.2) — dimensão celestial com biomas, criaturas e progressão própria
+- AI Improvements (0.5.2) — otimizações na inteligência artificial dos mobs
+- Alex's Mobs (1.22.9) — adiciona dezenas de novos animais e criaturas
+- AllTheLeaks (1.1.1) — corrige vazamentos de memória
+- Alternate Current (1.7.0) — implementação otimizada da redstone
+- AmbientSounds 6 (6.3.8) — adiciona sons ambientes dinâmicos e imersivos
+- Amendments (2.2.5) — adiciona melhorias e novos blocos em estilo vanilla
+- Apothic Attributes (1.3.7) — expande o sistema de atributos de equipamentos e entidades
+- AppleSkin (2.5.1) — exibe informações detalhadas de fome e saturação
+- Architectury API (9.2.14) — biblioteca de compatibilidade para diversos mods
+- Area Effect Clouds 3D (1.0.4) — renderiza nuvens de efeitos em 3D
+- Artifacts (9.5.19) — artefatos equipáveis com habilidades especiais
+- AttributeFix (21.0.5) — remove limitações dos atributos vanilla
+- BaguetteLib (1.1.6) — biblioteca utilizada por diversos mods
+- Balm (7.3.41) — biblioteca utilizada por diversos mods
+- Baubley Heart Canisters (1.2.0) — aumenta permanentemente a vida máxima
+- Better Advancements (0.4.2.60) — interface aprimorada para conquistas
+- Better Combat (1.9.0) — reformula o sistema de combate com novas animações
+- Better Days (3.3.4.5) — permite configurar a duração do dia e da noite
+- Bosses'Rise (2.1.2) — adiciona chefes inspirados em jogos Souls-like
+- BlockUI (1.0.193) — biblioteca utilizada pelo MineColonies
+- Bookshelf (20.2.15) — biblioteca utilizada por diversos mods
+- Boss Checklist (5.1.1) — acompanha o progresso dos chefes derrotados
+- Botarium (2.3.4) — biblioteca para sistemas de energia e fluidos
+- CERBON's API (1.1.0) — biblioteca utilizada pelos mods da Cerbon
+- Chat Heads (0.15.2) — exibe o rosto dos jogadores no chat
+- Chimes (2.1.1) — adiciona sinos decorativos com sons ambientes
+- Citadel (2.6.3) — biblioteca utilizada por mods de criaturas
+- Cloth Config API (11.1.136) — biblioteca para telas de configuração
+- Clumps (12.0.0.4) — agrupa orbes de experiência para reduzir lag
+- CodeChicken Lib (4.4.0.516) — biblioteca utilizada por diversos mods
+- Cold Sweat (2.4.2) — adiciona sistema de temperatura corporal
+- Collective (8.39) — biblioteca utilizada pelos mods da Serilum
+- Comforts (6.4.0) — adiciona sacos de dormir e redes
+- Connectivity (7.6) — melhora a estabilidade da conexão cliente-servidor
+- Controlling (12.0.2) — facilita a configuração das teclas
+- Create: Copycats+ (3.0.7) — amplia os blocos Copycat do Create
+- Corpse x Curios Compat (4.0.1) — integração entre Corpse e Curios
+- Corpse (1.0.23) — cria um corpo contendo os itens após a morte
+- Crafting Tweaks (18.2.9) — adiciona atalhos para organização no crafting
+- Create (6.0.8) — automação mecânica e engenharia industrial
+- Create: Central Kitchen (1.5.0) — integra o Create ao Farmer's Delight
+- Create Deco (2.0.3) — adiciona novos blocos decorativos para o Create
+- Create: Power Loader (2.0.3) — carrega automaticamente contraptions e trens
+- Create Stuff & Additions (2.1.2) — adiciona eletricidade, motores e novos equipamentos ao Create
+- CreativeCore (2.12.39) — biblioteca utilizada por diversos mods
+- Cull Leaves (4.1.1) — otimiza a renderização das folhas
+- Cupboard (3.9) — biblioteca utilizada por diversos mods
+- Curios API (5.14.1) — adiciona slots extras para equipamentos especiais
+- Curious Lanterns (1.3.7) — lanternas compatíveis com o sistema Curios
+- Decorative Blocks (4.1.3) — adiciona novos blocos decorativos em estilo vanilla
+- Deep Aether (1.1.7) — expansão de conteúdo para a dimensão Aether
+- Default Options (18.0.5) — aplica configurações padrão aos jogadores
+- DGLib (1.5) — biblioteca utilizada por diversos mods
+- Diet (2.1.1) — adiciona sistema de alimentação variada com bônus
+- Distant Horizons (3.2.0) — renderiza terreno distante com baixo impacto no desempenho
+- Domum Ornamentum (1.0.296) — blocos de construção utilizados pelo MineColonies
+- Double Doors (7.2) — abre portas duplas simultaneamente
+- MmmMmmMmmMmm (2.0.12) — boneco de treino para testar dano
+- When Dungeons Arise (2.1.58) — adiciona grandes masmorras e estruturas espalhadas pelo mundo
+- Dynamic Lights (1.9) — iluminação dinâmica emitida por itens e entidades
+- Dynamic Villager Trades (1.3.1) — reequilibra e diversifica as trocas dos aldeões
+- Embeddium (0.3.31) — otimizações gráficas para o cliente
+- Emotecraft (2.2.7) — adiciona emotes animados aos jogadores
+- Enchantment Descriptions (17.1.21) — exibe descrições detalhadas dos encantamentos
+- Ender Storage (2.11.0.188) — baús e tanques Ender compartilhados
+- Entity Culling (1.10.5) — evita renderizar entidades ocultas
+- Entity Model Features (3.2.4) — suporte a modelos personalizados para entidades
+- Entity Texture Features (7.1) — suporte a texturas avançadas para entidades
+- Every Compat (2.9.24) — amplia a compatibilidade entre madeiras e diversos mods
+- Extreme Sound Muffler (3.51) — permite silenciar sons específicos
+- Falling Leaves (2.1.2) — adiciona folhas caindo das árvores
+- Farmer's Delight (1.3.2) — expande o sistema de culinária e agricultura
+- Farmer's Respite (2.1.2) — adiciona bebidas, chás e novas receitas para Farmer's Delight
+- FastSuite (5.1.2) — otimiza o processamento de receitas e crafting
+- FerriteCore (6.0.1) — reduz o consumo de memória RAM
+- Forge Config Screens (8.0.2) — adiciona telas gráficas para configuração de mods
+- FramedBlocks (9.4.3) — blocos totalmente personalizáveis
+- FTB Library (2001.2.13) — biblioteca utilizada pelos mods da FTB
+- FTB Ultimine (2001.1.8) — mineração em área de múltiplos blocos
+- Fusion (1.3.5) — suporte a connected textures e recursos gráficos avançados
+- Create: Garnished (2.1.7.b) — adiciona novos alimentos, ingredientes e receitas integradas ao ecossistema do Create
+- GeckoLib (4.8.4) — biblioteca para animações avançadas de entidades e blocos
+- Gliders (1.2.0) — adiciona planadores para locomoção aérea
+- GPU Memory Leak Fix (1.8) — corrige vazamentos de memória da GPU
+- Handcrafted (3.0.6) — adiciona móveis e decoração em estilo vanilla
+- Horseman (1.3.16) — adiciona cavaleiros hostis e novos desafios montados
+- Iceberg (1.1.25) — biblioteca utilizada por diversos mods
+- ImmediatelyFast (1.5.5) — otimiza a renderização da interface e de entidades
+- Immersive Melodies (0.6.1) — adiciona músicas e trilhas sonoras ao ambiente
+- Immersive UI (0.3.0) — melhora a apresentação da interface do jogador
+- InsaneLib (1.23.4.6) — biblioteca utilizada pelos mods da Insane96
+- Inventory Essentials (8.2.18) — melhorias para gerenciamento do inventário
+- Jade (11.13.2) — exibe informações sobre blocos e entidades
+- Jade Addons (5.5.1) — amplia as informações exibidas pelo Jade
+- JamLib (1.3.6) — biblioteca utilizada por diversos mods
+- Just Enough Items (JEI) (15.20.0.112) — consulta de receitas e usos de itens
+- JourneyMap (5.10.3) — minimapa e mapa em tempo real
+- Kiwi (11.10.3) — biblioteca utilizada por mods da Snownee
+- Konkrete (1.8.0) — biblioteca utilizada por diversos mods
+- Kotlin for Forge (4.12.0) — suporte à linguagem Kotlin para mods
+- Legendary Tooltips (1.4.5) — tooltips aprimorados para itens
+- L_Ender's Cataclysm (3.31) — adiciona chefes, masmorras, armas e desafios de alto nível
+- Lexiconfig (1.4.21) — biblioteca para sistemas de configuração
+- Lionfish API (3.0) — biblioteca utilizada pelo Cataclysm
+- Lithostitched (1.4.11) — biblioteca para geração de mundo
+- Lootr (0.7.35.94) — loot individual para cada jogador em baús e estruturas
+- Mantle (1.11.104) — biblioteca utilizada pelo Tinkers' Construct
+- MidnightLib (1.9.2) — biblioteca utilizada por diversos mods
+- MineColonies (1.1.1231) — criação e gerenciamento de colônias automatizadas
+- ModernFix (5.27.58) — otimizações de desempenho e correções diversas
+- Moonlight Lib (2.16.34) — biblioteca utilizada por diversos mods
+- Mouse Tweaks (2.25.1) — melhora a movimentação de itens com o mouse
+- Mowzie's Mobs (1.8.2) — criaturas e chefes com mecânicas avançadas
+- Multi-Piston (1.2.43) — biblioteca utilizada pelo MineColonies
+- Nature's Compass (1.12.0) — localiza biomas específicos
+- OctoLib (0.5.0.1) — biblioteca utilizada por diversos mods
+- Oculus (1.8.0) — suporte a shaders
+- ParCool! (3.4.3.3) — adiciona parkour e novas movimentações ao jogador
+- Pick Up Notifier (8.0.0) — exibe notificações de itens coletados
+- Placebo (8.6.3) — biblioteca utilizada pelos mods da Shadows_of_Fire
+- Player Animator (1.0.2-rc1) — biblioteca de animações para jogadores
+- Polymorph (0.49.10) — resolve conflitos entre receitas iguais
+- Prism (1.0.5) — biblioteca utilizada por diversos mods
+- Progressive Bosses (4.3.12) — fortalece progressivamente chefes vanilla
+- Puzzles Lib (8.1.33) — biblioteca utilizada por diversos mods
+- Radiant Gear (2.2.0) — adiciona equipamentos especiais com atributos únicos
+- Rechiseled (1.2.5) — centenas de novas variações decorativas para blocos
+- Rechiseled: Create (1.1.1) — amplia os blocos decorativos do Create
+- Re:Deco (1.14.1) — adiciona móveis e decoração em estilo vanilla
+- Resourceful Config (2.1.3) — biblioteca para gerenciamento de configurações
+- Resourceful Lib (2.1.29) — biblioteca utilizada por diversos mods
+- RightClickHarvest (4.6.1) — colhe plantações maduras com clique direito
+- Rubidium Extra (0.5.4.4) — opções extras para Embeddium
+- Searchables (1.0.3) — biblioteca para sistemas de pesquisa
+- Simple Hats (0.4.0a) — adiciona chapéus cosméticos colecionáveis
+- Simple Radio (4.5.7.9) — adiciona rádios portáteis para comunicação
+- Create: Slice & Dice (3.6.0) — automatiza receitas do Farmer's Delight utilizando o Create
+- Snow! Real Magic! (10.7.0) — acumulação dinâmica de neve
+- Soccer Mod (0.1) — adiciona bola e mecânicas de futebol
+- Sodium/Embeddium Extras (1.0.7) — funcionalidades extras para Embeddium
+- Sodium/Embeddium Options API (1.0.10) — API para configurações gráficas
+- Sodium/Embeddium Options Mod Compat (1.0.0) — compatibilidade entre Embeddium e outros mods
+- Spice of Life: Carrot Edition (1.15.1) — incentiva uma alimentação variada com bônus
+- Sophisticated Backpacks (3.24.59.1960) — mochilas altamente personalizáveis
+- Sophisticated Core (1.3.65.2126) — biblioteca dos mods Sophisticated
+- Sophisticated Storage (1.4.66.1939) — sistema avançado de armazenamento
+- Sound Physics Remastered (1.5.1) — simulação realista da propagação do som
+- Spark (1.10.53) — ferramenta para análise de desempenho
+- Spyglass Improvements (1.5.12b) — melhorias para a luneta com zoom e acesso rápido
+- Create: Steam 'n' Rails (1.7.2) — expansão ferroviária para o Create
+- Structory (1.3.5) — adiciona novas estruturas ao mundo
+- Structurize (1.0.816) — biblioteca e sistema de construção do MineColonies
+- SuperMartijn642's Config Lib (1.1.8) — biblioteca de configuração
+- SuperMartijn642's Core Lib (1.1.21) — biblioteca utilizada por diversos mods
+- Supplementaries (3.1.43) — adiciona blocos decorativos e utilitários
+- It Takes a Pillage (1.0.3) — expande os pillagers e seus postos avançados
+- Tinkers' Construct (3.11.2.166) — criação e personalização avançada de ferramentas, armas e equipamentos
+- Tectonic (3.0.17) — reformula a geração de montanhas, vales e relevos
+- TerraBlender (3.0.1.10) — biblioteca para geração de biomas
+- Terralith (2.5.4) — reformula completamente a geração de biomas vanilla
+- Thirst Was Taken (1.4.0) — adiciona sistema de sede e hidratação
+- Tinker Better Combat (0.14) — compatibilidade entre Tinkers' Construct e Better Combat
+- Tinkers' Jewelry (1.2.0) — adiciona joias personalizáveis utilizando o sistema do Tinkers'
+- Tom's Simple Storage Mod (1.7.1) — sistema de armazenamento integrado para baús
+- TownTalk (1.1.0) — adiciona diálogos e interações aprimoradas ao MineColonies
+- TrimsEffects (2.1.2) — concede bônus conforme os Armor Trims utilizados
+- Unique Accessories (1.3.3) — adiciona acessórios exclusivos com habilidades especiais
+- Universal Bone Meal (8.0.1) — amplia o uso do pó de osso em diversas plantas
+- Simple Voice Chat (2.6.20) — chat de voz por proximidade entre jogadores
+- Waystones (14.1.20) — sistema de teletransporte por marcos
+- YUNG's API (4.0.6) — biblioteca utilizada pelos mods da YUNG
+- YUNG's Better Dungeons (4.0.4) — reformula e expande as masmorras vanilla
+- YUNG's Better End Island (2.0.6) — reformula completamente a ilha principal do End
+- YUNG's Better Mineshafts (4.0.4) — minas abandonadas muito maiores e mais detalhadas
+- YUNG's Better Nether Fortresses (2.0.6) — fortalezas do Nether expandidas e mais desafiadoras
+- YUNG's Better Strongholds (4.0.3) — fortalezas completamente redesenhadas
