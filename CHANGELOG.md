@@ -36,7 +36,7 @@
 ## [13/07/26]
 ## 1.2.0
 
-### adicionado
+### Adicionado
 - Discord Chat (2.7.0) — integração do chat do Minecraft com canais do Discord em tempo real
 - FTB Chunks (2001.3.8) — sistema de proteção de terrenos (claims) e carregamento forçado de chunks
 - FTB Teams (2001.3.2) — criação de equipes para compartilhamento de claims, permissões e progresso
@@ -44,8 +44,18 @@
 - What Are They Up To (WATUT) (1.2.3) — exibe visualmente as ações realizadas por outros jogadores, como mineração, construção e uso de blocos
 - CoroUtil (1.3.7) — biblioteca de utilitários utilizada por diversos mods para funcionalidades internas
 
-## [11/07/26]
+## [12/07/26]
 ## 1.1.0
+
+### Adicionado
+- Born in Chaos (1.7.5) — adiciona novos mobs hostis, estruturas, equipamentos e desafios para tornar a sobrevivência mais perigosa
+- Simply Swords (1.56.0) — adiciona novas armas medievais com estilos de combate variados, incluindo espadas, lanças, katanas, glaives e outras armas únicas
+- Carry On (2.1.2.7) — permite carregar blocos com inventário, máquinas e algumas entidades para facilitar transporte e organização
+
+## [11/07/26]
+## 1.0.0
+
+### Adicionado
 - SecurityCraft (1.10.2.1) — sistemas de segurança com fechaduras, câmeras, minas e proteção de bases
 - Accessories (1.0.0-beta.48) — adiciona slots extras para acessórios e equipamentos
 - Ad Astra (1.15.20) — exploração espacial com foguetes, planetas e tecnologia
